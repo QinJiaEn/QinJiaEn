@@ -27,7 +27,11 @@
 
 ### 开源项目
 - 开源好难哈哈哈哈哈
-=
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wans-OS/Wans-OS/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wans-OS/Wans-OS/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Wans-OS/Wans-OS/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 ⭐️
